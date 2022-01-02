@@ -1,0 +1,43 @@
+/* :root {
+  --white: ;#f2f2f2;
+}
+
+.pink {
+  background-color: pink;
+  width: 50px;
+}
+
+.parent {
+  background-color: sienna;
+  width: 50px;
+  color: var(white);
+}
+
+.one {
+  background-color: green;
+  width: 50px;
+}
+
+.two {
+  background-color: yellow;
+  width: 50px;
+  position: relative;
+  top: 20px;
+}
+
+.three {
+  background-color: red;
+  width: 50px;
+}
+.red-text {
+  font-style: unset;
+  text-transform: uppercase;
+  text-align: right;
+
+  color: #ff0000;
+  color: rgb(255, 0, 0);
+  color: hsl(0, 100%, 50%);
+} */
+.numbers {
+  display: inline-block;
+}
